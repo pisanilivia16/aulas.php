@@ -1,2 +1,2 @@
 # aulas.php
-Este repositorio eeeee´pra alocar atividades de aula 
+Este repositorio é pra alocar atividades de aula 
